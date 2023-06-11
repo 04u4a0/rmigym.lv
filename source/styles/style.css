@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(180deg, #000 40%, #FFDD00 100%);
+}
+
+.nav-link {
+    color: rgb(196, 193, 23);
+}
+
+.navbar-nav .nav-link.active {
+    color: #ffff00;
+}
+
+.navbar-brand img {
+    width: 80px;
+}
+
+.navbar-toggler {
+    background-color: #a8a80e;
+}
+
+.sidebar {
+    color: #ffffff;
+    background: rgb(58, 58, 58)
+}
+
+body {
+    font-family: 'Bold 700', serif;
+    font-size: 32px;
+    text-shadow: 4px 4px 4px #000000;
+}
+
+.card {
+    background-color: #413f3f;
+    color: #ffffff;
+}
+
+footer {
+    background-color: #ffe100;
+}
+
+.footer-text {
+    color: #ffffff;
+    margin: auto auto;
+}
