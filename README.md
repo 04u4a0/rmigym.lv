@@ -1,0 +1,1 @@
+# rmigym.lv
